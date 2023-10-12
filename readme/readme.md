@@ -46,3 +46,12 @@ Hotkey is number in circle
 * Manual could me much better structured
 * TODO
 
+# Update 12.12.2023
+## BASE Info
+Still learning. It's getting better. Currently stuck with 10 letters(no special characters) giving it like 25min a day on site - https://www.keybr.com/ , maybe less. Feels hardcore.
+TBH I feel, when Im not using my head thinking whats were, I'm much more precise. Haven't had yet time to play with specific mappings. Will do, when I learn base letters and then special characters ...
+
+## Keyboard and stuff
+Bougt the pro 360(logically :)), also with pads. It seems it is best working when they are shoulder appart, though that raises a question, what to do and where to put mouse(will see over the time).
+Tried to play a game -> disaster. Im waiting till I get through all letters. Conenction(the moment you want to connect) is buggy, need to turn off and on BTH in PC and then it connects(not always, when I use different PC ....) maybe I do soemthing wrong.
+
