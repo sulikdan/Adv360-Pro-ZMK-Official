@@ -40,6 +40,11 @@ Hotkey is number in circle
 * Mod +2(hotkey) -> ??
 * Mod +4(hotkey) -> both sides battery health
 
+### Getting stuck with connection??
+If you have trouble that keyboard doesnt want to connect
+to PC with message "not able to" try to:
+1. Removing device
+2. Press Mod + Win-key
 
 ## 360 Pro sucks at
 * tripple indicator lights of both sides feels like sunlike lighthouses that will burn your eyes out (simple solution - buy brown see through tape and tape small strips over them - though sucks how much it must consume)
